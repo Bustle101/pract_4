@@ -15,7 +15,7 @@
 1. Склонируйте репозиторий:
 
 ```bash
-git clone https://github.com/Llyesviel/store.git
+git clone https://github.com/Bustle101/pract_4.git
 cd store
 ```
 
